@@ -2,7 +2,7 @@ package imprimiriniciales;
 
 /**
  *
- * @author tracher
+ * @author jorge
  */
 import java.util.Scanner;
 
